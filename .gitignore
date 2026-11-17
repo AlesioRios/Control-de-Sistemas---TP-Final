@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Archivos de coordinación con Claude — no van al repo
+CLAUDE.md
+ROADMAP.md
+estado.md
